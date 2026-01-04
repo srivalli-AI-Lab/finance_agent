@@ -1,0 +1,4 @@
+body { font-family: 'Segoe UI', sans-serif; }
+#chat { background: #f8f9fa; }
+.rounded { border-radius: 15px; }
+.bg-primary { background: #0d6efd !important; }
